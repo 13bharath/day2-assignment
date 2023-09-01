@@ -1,6 +1,7 @@
 >>>#assinging a variable
 >>> a= 10
->>> b=10
+>>> b= 10
+>>> #Floor Division
 >>> print(a//b)
 1
 >>> # a power b
